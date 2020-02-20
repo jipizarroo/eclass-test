@@ -1,22 +1,22 @@
-TEST eClass
+#TEST eClass
 
-Instalación:
+#Instalación:
 
-Abrir terminal y pegar la siguente url:
+ * Abrir terminal y pegar la siguente url:
 
-git clone https://github.com/jipizarroo/eclass-test.git
+`git clone https://github.com/jipizarroo/eclass-test.git`
 
-Entrar a la carpeta del proyecto:
+* Entrar a la carpeta del proyecto:
 
-cd eclass-test
+`cd eclass-test`
 
-Instalar todas las dependencias del proyecto:
+* Instalar todas las dependencias del proyecto:
 
-npm install
+`npm install`
 
-Levantar el servidor local:
+* Levantar el servidor local:
 
-npm start
+`npm start`
 
 
 ----------------------------------
